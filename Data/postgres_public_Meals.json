@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 66,
+    "Key": "Wings with rice ",
+    "Description": "",
+    "IdMenu": 61,
+    "Sort": null
+  },
+  {
+    "Id": 67,
+    "Key": "Tomatoe Soup ",
+    "Description": "",
+    "IdMenu": 61,
+    "Sort": null
+  },
+  {
+    "Id": 68,
+    "Key": "Porkchop",
+    "Description": "",
+    "IdMenu": 61,
+    "Sort": null
+  },
+  {
+    "Id": 69,
+    "Key": "Mexican Quesadilla",
+    "Description": "",
+    "IdMenu": 61,
+    "Sort": null
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 2,
+    "Fullname": "Broker",
+    "Username": "broker",
+    "Password": "1234",
+    "Phone": "4155238886",
+    "Email": "ana@mail.com"
+  },
+  {
+    "Id": 3,
+    "Fullname": "Alfonso Hernandez",
+    "Username": "alfon123",
+    "Password": "1234",
+    "Phone": "+5212461847899",
+    "Email": "alfonso_h_x@hotmail.com"
+  },
+  {
+    "Id": 4,
+    "Fullname": "Alfonso Xochipa",
+    "Username": "ch1234",
+    "Password": "1234",
+    "Phone": "+5212461878506",
+    "Email": "hxa.dev@hotmail.com"
+  },
+  {
+    "Id": 6,
+    "Fullname": "Claudia Saavedra",
+    "Username": "ch12345",
+    "Password": "1234",
+    "Phone": "+522411233057",
+    "Email": "chedu@hotmail.com"
+  }
+]

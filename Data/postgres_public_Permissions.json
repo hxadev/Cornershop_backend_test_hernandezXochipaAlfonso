@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Permission": "SEND MESSAGE",
+    "Description": "SEND MESSAGES"
+  },
+  {
+    "Id": 2,
+    "Permission": "ROOT",
+    "Description": "ALL PERMISSIONS"
+  },
+  {
+    "Id": 3,
+    "Permission": "CREATE MENUS",
+    "Description": "CREATE MENU"
+  },
+  {
+    "Id": 4,
+    "Permission": "READ MENUS",
+    "Description": "READ"
+  },
+  {
+    "Id": 5,
+    "Permission": "UPDATE MENUS",
+    "Description": "UPDATE"
+  },
+  {
+    "Id": 6,
+    "Permission": "DELETE MENUS",
+    "Description": "DELETE"
+  },
+  {
+    "Id": 7,
+    "Permission": "CREATE ORDER",
+    "Description": "CREATE ORDER BY WHATSAPP"
+  }
+]
